@@ -4,8 +4,7 @@ I'm a software developer who is passionate with knowledge and wisdom. Some techn
 
 
 ## Find me around the web 🌎:
-- Tinkering with piece of codes with small solutions and tests on <a href="https://stackblitz.com/@renanduart3"> Stackblitz</a> 🏓
-- Sharing updates and my professional profile on <a href="https://www.linkedin.com/in/renanduart3/">LinkedIn</a> 💼
+- Tinkering with piece of codes with small solutions and tests on <a href="https://stackblitz.com/@renanduart3" target="_blank"> Stackblitz</a> 🏓
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/renanduart3)](https://github.com/renanduart3)
