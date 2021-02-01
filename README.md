@@ -17,7 +17,7 @@ I'm a software developer who is passionate with knowledge and wisdom. Some techn
 Microsoft Cert path
 <div id="document-container">
     <div id="embed-border" style="visibility: hidden;"></div>
-  <embed id="plugin" type="application/x-google-chrome-pdf" src="https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI" stream-url="chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/b3a64315-0ffe-4a1b-b2e8-4c75e1d76174" headers="AppEx-Activity-Id: 3394b44d-31d9-42b6-8e98-00c4fff77097
+    <embed id="plugin" type="application/x-google-chrome-pdf" src="https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI" stream-url="chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/b3a64315-0ffe-4a1b-b2e8-4c75e1d76174" headers="AppEx-Activity-Id: 3394b44d-31d9-42b6-8e98-00c4fff77097
 Cache-Control: public, must-revalidate, max-age=10921
 Content-Disposition: inline; filename=MSFT-CertPoster_design_010721_v5.pdf
 Content-Length: 254950
