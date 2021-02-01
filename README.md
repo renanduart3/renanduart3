@@ -13,3 +13,6 @@ I'm a software developer who is passionate with knowledge and wisdom. Some techn
 
 
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="renanduart3"><a class="LI-simple-link" href='https://br.linkedin.com/in/renanduart3/en-us?trk=profile-badge'>Renan Duarte</a></div>
+
+Microsoft Cert path
+https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
