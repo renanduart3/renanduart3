@@ -1,3 +1,10 @@
+
+<div align="center">
+  <img height="350em" src="./.github/assets/r3nan-dev.gif"/>
+</div>
+
+**`Digital Craftsman (Developer/SonOfGod/DarkCreator)`**
+
 # Hi, I'm Renan 🧙‍♂️
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/renanduart3)](https://github.com/renanduart3)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renanduart3/)](https://www.linkedin.com/in/renanduart3/)
